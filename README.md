@@ -34,8 +34,9 @@ The investigation uncovered a **Multi-Stage Attack** targeting the internal web 
 
 ##  Full Report
 - [Read the full Investigation Report here](./report.md)
-- [View the Detection Rule](./detection_rule.md)
-
+## Detection Rule
+- [View Rule Explanation (Markdown)](./detection_rule.md)
+- [Download the actual exported Rule (JSON)](./Malicious IP Activity.ndjson)
 ---
 
 ##  Author
